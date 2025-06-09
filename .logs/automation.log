@@ -1,0 +1,6 @@
+2025-06-03 17:19:41 [INFO] TC001_RegistrationPage - ***Start of Execution of TC001_RegistrationPage
+2025-06-03 17:19:41 [INFO] TC001_RegistrationPage - Clicking on My Account link
+2025-06-03 17:19:41 [INFO] TC001_RegistrationPage - Clicking on My Register link
+2025-06-03 17:19:42 [INFO] TC001_RegistrationPage - Providing customer Details
+2025-06-03 17:19:43 [INFO] TC001_RegistrationPage - Validating confirmation Message
+2025-06-03 17:19:44 [INFO] TC001_RegistrationPage - ***Finish of Execution of TC001_RegistrationPage
